@@ -1,0 +1,13 @@
+{
+    "Name": "Starlight",
+    "Author": "Lanturnalis",
+    "Version": "0.1",
+    "Description": "Adds a vast and sprawling underdark under Stardew Valley",
+    "UniqueID": "Lanturnalis.Stardew.Starlight",
+    "EntryDll": "Lanturnalis.Stardew.Starlight.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": [],
+    "Dependencies": [
+        { "UniqueID": "spacechase0.SpaceCore", "MinimumVersion": "1.9.2", "IsRequired": true }
+    ]
+}
